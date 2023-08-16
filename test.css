@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Ramche';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-1@1.1/Ramche.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+	font-family: 'Ramche';
+ }
+
+.introduce {
+	color: orange;
+	size: 30px;
+	width: 500px;
+	height: 600px;
+	background-image: url(https://image.edaily.co.kr/images/Photo/files/NP/S/2020/11/PS20110400400.jpg);
+	background-size: cover;
+	padding: 30px;
+	margin: 20px;
+}
+
+
+#con_header{
+	size: 50px;
+	color: darkblue;
+	text-align: center;
+}
